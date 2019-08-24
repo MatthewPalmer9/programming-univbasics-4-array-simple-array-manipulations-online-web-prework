@@ -1,4 +1,3 @@
 def using_push(array, string)
-  array = []
-  array.push("")
+  array.push(string)
 end
